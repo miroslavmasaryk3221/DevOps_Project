@@ -1,0 +1,14 @@
+s-archivDB
+False
+s-qlik
+False
+s-runDB
+False
+s-runapp
+False
+s-runsvc
+False
+s-runcps
+False
+s-runacc
+False
