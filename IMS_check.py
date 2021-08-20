@@ -3,7 +3,7 @@ import time
 import re
 
 
-from PIL import ImageTk
+from pil import ImageTk
 
 Tstat = "True"
 Fstat = "False"
