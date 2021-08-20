@@ -3,7 +3,7 @@ import time
 import re
 
 
-from pillow import ImageTk
+from PIL import ImageTk
 
 Tstat = "True"
 Fstat = "False"
